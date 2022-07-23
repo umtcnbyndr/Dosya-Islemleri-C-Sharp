@@ -1,0 +1,13 @@
+C:\Users\umtcn\source\repos\Dosya-İşlemler,\Dosya-İşlemler,\bin\Debug\Dosya-İşlemler,.exe.config
+C:\Users\umtcn\source\repos\Dosya-İşlemler,\Dosya-İşlemler,\bin\Debug\Dosya-İşlemler,.exe
+C:\Users\umtcn\source\repos\Dosya-İşlemler,\Dosya-İşlemler,\bin\Debug\Dosya-İşlemler,.pdb
+C:\Users\umtcn\source\repos\Dosya-İşlemler,\Dosya-İşlemler,\obj\Debug\Dosya-İşlemleri.csproj.AssemblyReference.cache
+C:\Users\umtcn\source\repos\Dosya-İşlemler,\Dosya-İşlemler,\obj\Debug\Dosya_İşlemler_.Form1.resources
+C:\Users\umtcn\source\repos\Dosya-İşlemler,\Dosya-İşlemler,\obj\Debug\Dosya_İşlemler_.Form2.resources
+C:\Users\umtcn\source\repos\Dosya-İşlemler,\Dosya-İşlemler,\obj\Debug\Dosya_İşlemler_.Properties.Resources.resources
+C:\Users\umtcn\source\repos\Dosya-İşlemler,\Dosya-İşlemler,\obj\Debug\Dosya-İşlemleri.csproj.GenerateResource.cache
+C:\Users\umtcn\source\repos\Dosya-İşlemler,\Dosya-İşlemler,\obj\Debug\Dosya-İşlemleri.csproj.CoreCompileInputs.cache
+C:\Users\umtcn\source\repos\Dosya-İşlemler,\Dosya-İşlemler,\obj\Debug\Dosya-İşlemler,.exe
+C:\Users\umtcn\source\repos\Dosya-İşlemler,\Dosya-İşlemler,\obj\Debug\Dosya-İşlemler,.pdb
+C:\Users\umtcn\source\repos\Dosya-İşlemler,\Dosya-İşlemler,\obj\Debug\Dosya_İşlemler_.Form3.resources
+C:\Users\umtcn\source\repos\Dosya-İşlemler,\Dosya-İşlemler,\obj\Debug\Dosya_İşlemler_.Form4.resources
